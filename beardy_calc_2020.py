@@ -19,4 +19,4 @@ message = f"You can fit {lSQft / 2} Bearded Dragons inside your home!"
 #The open square footage is then divided by 2sqft, which is the average size of a bearded dragon tank
 
 print(message)
-#Congrats! Fill your home with lizards!
+#Congratulations! Fill your home with lizards!
